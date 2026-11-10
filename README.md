@@ -32,6 +32,12 @@
 | **Full Stack** | 前后端联调、功能整合、端到端实现 |
 | **Engineering** | 清晰的代码结构、可维护性、持续改进 |
 
+### 项目
+
+| 仓库 | 简介 |
+| --- | --- |
+| [regenerator](https://github.com/CourageA/regenerator) | JavaScript Generator 与异步语法转换工具，Fork 自上游，附中文导读。 |
+
 ### 在这里
 
 这里是我的代码空间，欢迎浏览仓库、交流技术。
