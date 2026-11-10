@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="CourageA — Java Developer · Backend-focused Full-Stack Engineer" width="100%" />
+  <img src="./assets/header.svg" alt="华仔 — Java Developer · Backend-focused Full-Stack Engineer" width="100%" />
 </p>
 
-<h1 align="center">你好，我是 CourageA 👋</h1>
+<h1 align="center">你好，我是华仔 👋</h1>
 
 <p align="center">
   <strong>Java 程序员 · 后端为主的全栈工程师</strong>
